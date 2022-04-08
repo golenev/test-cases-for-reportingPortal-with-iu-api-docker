@@ -1,3 +1,4 @@
+Тестируемое приложение разворачивается локально в докере.
 Стэк: Aquality Selenium, TestNG, Rest Assured, Javafaker, Projectlombok
 
 Step	Ожидаемый результат
