@@ -1,4 +1,4 @@
-Стэк: Aquality Selenium, TestNG, Rest Assured, Javafakerm, Projectlombok
+Стэк: Aquality Selenium, TestNG, Rest Assured, Javafaker, Projectlombok
 
 Step	Ожидаемый результат
 1. Запросом к апи получить токен согласно номеру варианта
