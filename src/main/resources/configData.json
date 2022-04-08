@@ -1,0 +1,8 @@
+{
+  "logFIlePath": "src/main/resources/logs.txt",
+  "url": "http://login:password@localhost:8080/web",
+  "screenShotPath": "/src/main/resources/screenshot.png",
+  "postBody": "http://localhost:8080/api/token/get?variant=2",
+  "apiHost": "http://localhost:8080/api/",
+  "encodingType": "UTF-8"
+}

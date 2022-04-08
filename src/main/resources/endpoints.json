@@ -1,0 +1,6 @@
+{
+  "getJson": "test/get/json?",
+  "getLog": "test/put/log?",
+  "putTest": "test/put?",
+  "putAttach": "test/put/attachment?"
+}
